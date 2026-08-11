@@ -1,0 +1,19 @@
+{
+  "name": "Rencana Rieke",
+  "short_name": "Rencana Rieke",
+  "description": "Tempat Rieke menyimpan semua rencana hidupnya.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#F7559D",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/cropped_circle_image_(3).png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
